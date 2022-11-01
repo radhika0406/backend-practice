@@ -1,0 +1,8 @@
+# dependencies
+node_modules
+.pnp
+.yalc
+.npmrc
+.pnp.js
+yalc.lock
+package-lock.json
